@@ -31,3 +31,6 @@ npm install
 http://hostname:3001/chatbox.htmlにアクセスし、話しかける。
 おうむ返ししたら成功。
 
+#備考
+routes/module/mod_socket.jsをネット見ながら適当に書いただけ。
+
